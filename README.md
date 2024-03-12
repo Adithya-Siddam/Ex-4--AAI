@@ -1,5 +1,5 @@
-<H3>ENTER YOUR NAME S Adithya Chowdary.</H3>
-<H3>ENTER YOUR REGISTER NO. 212221230100.</H3>
+<H3>NAME: S Adithya Chowdary.</H3>
+<H3>REGISTER NO.: 212221230100.</H3>
 <H3>EX. NO.4</H3>
 <H3>DATE: 12-03-2024</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
